@@ -1,6 +1,6 @@
 {
   "name": "px-tooltip",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "main": [
     "px-tooltip.html"
   ],
@@ -24,14 +24,13 @@
     "web-component-tester": "~3.3.14"
   },
   "homepage": "https://github.com/PredixDev/px-tooltip",
-  "_release": "0.6.2",
+  "_release": "0.6.3",
   "_resolution": {
     "type": "version",
-    "tag": "v0.6.2",
-    "commit": "61d0b645a025e5712846142d0162bc31d429633d"
+    "tag": "v0.6.3",
+    "commit": "9d81d8d6db4485ad29f81bf77656b3b4488dae65"
   },
   "_source": "https://github.com/PredixDev/px-tooltip.git",
   "_target": "^0.6.2",
-  "_originalSource": "px-tooltip",
-  "_direct": true
+  "_originalSource": "px-tooltip"
 }
