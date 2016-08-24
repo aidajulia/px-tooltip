@@ -29,7 +29,7 @@
     "px-polymer-font-awesome": "^0.1.8",
     "px-tabs": "~0.4.0",
     "px-api-viewer": "~0.0.4",
-    "px-demo-snippet": "^0.3.2",
+    "px-demo-snippet": "^0.4.0",
     "px-actionable-text-icons-design": "^0.0.3",
     "px-code-design": "^0.2.11",
     "px-headings-design": "^0.2.14",
@@ -40,6 +40,6 @@
     "px-buttons-design": "^0.4.26"
   },
   "resolutions": {
-    "iron-ajax": "^1.4.3"
+    "iron-ajax": "^1.0.0"
   }
 }
