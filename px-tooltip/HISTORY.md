@@ -1,3 +1,11 @@
+v0.9.6
+=================
+* updated dependencies
+
+v0.9.5
+=================
+* added style variables for theming
+
 v0.9.3
 =================
 * handle case were the tooltipParent is null
