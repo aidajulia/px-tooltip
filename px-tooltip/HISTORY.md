@@ -1,3 +1,11 @@
+v0.9.16
+==================
+* changing all devDeps to ^
+
+v0.9.15
+==================
+* Update px-theme to 2.0.1 and update test fixtures
+
 v0.9.14
 ==================
 * turned max width into a mixin
